@@ -1,0 +1,11 @@
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\bin\Debug\Conagua_Plano.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\bin\Debug\Conagua_Plano.pdb
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\bin\Debug\Conagua_Plano.xml
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\bin\Debug\Cadcorp.SIS.GisLink.Library.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.Resources.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.vbproj.GenerateResource.Cache
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.dll
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.xml
+C:\Users\Hector\documents\visual studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.pdb
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.Conagua_Marco.resources
+C:\Users\Hector\Documents\Visual Studio 2010\Projects\Conagua_Plano\Conagua_Plano\obj\x86\Debug\Conagua_Plano.vbprojResolveAssemblyReference.cache
